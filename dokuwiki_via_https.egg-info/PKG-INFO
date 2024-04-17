@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: dokuwiki_via_https
+Version: 0.5.0
+Summary: A higher-level API to interface with a dokuwiki over raw HTTPS (aka. without the security risk from XML-RPC)
+Author: Nicholas Biancolin
+Author-email: n.biancolin@mail.utoronto.ca
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE

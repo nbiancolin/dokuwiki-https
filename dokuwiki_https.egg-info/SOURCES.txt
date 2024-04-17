@@ -1,5 +1,6 @@
 LICENSE
 README.md
+pyproject.toml
 setup.py
 dokuwiki_https.egg-info/PKG-INFO
 dokuwiki_https.egg-info/SOURCES.txt

@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: dokuwiki_https
+Name: dokuwiki_https_nbiancolin
 Version: 1.0.0
 Summary: A higher-level API to interface with a dokuwiki over raw HTTPS (ie. without the security risk from XML-RPC)
 Author: Nicholas Biancolin

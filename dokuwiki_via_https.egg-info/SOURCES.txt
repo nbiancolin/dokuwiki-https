@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+dokuwiki_via_https.egg-info/PKG-INFO
+dokuwiki_via_https.egg-info/SOURCES.txt
+dokuwiki_via_https.egg-info/dependency_links.txt
+dokuwiki_via_https.egg-info/top_level.txt
